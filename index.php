@@ -11,4 +11,9 @@ echo "My name is Roman";
 
 <?php
 
-$age;
+$age = 29;
+$Age = 30;
+
+echo $age;
+echo "<br />";
+echo $Age;
