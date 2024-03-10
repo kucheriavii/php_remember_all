@@ -1,6 +1,8 @@
 <?php 
+#comment
+//line comment
 
-echo "Hello world<br/>";
+echo /*inner comment*/"Hello world<br/>";
 echo "My name is Roman";
 
 ?>
