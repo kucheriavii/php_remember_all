@@ -9,3 +9,6 @@ echo "My name is Roman";
 
 <h1><?php echo "surprise"; ?></h1>
 
+<?php
+
+$age;
