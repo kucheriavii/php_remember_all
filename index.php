@@ -17,3 +17,5 @@ $Age = 30;
 echo $age;
 echo "<br />";
 echo $Age;
+
+#types
