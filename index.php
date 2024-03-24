@@ -31,3 +31,11 @@ var_dump($data);
 echo "<br />";
 print("test $data");
 var_dump($lastName[strlen($lastName)-1]);
+
+echo "<br />";
+echo "<br />";
+$food1 = "Salad";
+$food2 = "Pizza";
+
+$data = ['Salad', 'Burger', 'Pizza'];
+print($data[1]);
