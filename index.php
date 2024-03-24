@@ -41,3 +41,8 @@ var_dump($data);
 echo "<br />";
 $data[] = 'Tomato';
 var_dump($data);
+
+echo "<br />";
+$data = ['john' => 'Salad', 'jane' => 'Burger', 'sam' => 'Pizza'];
+$data['piter'] = 'Chips';
+var_dump($data);
