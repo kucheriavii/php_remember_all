@@ -17,5 +17,17 @@ $Age = 30;
 echo $age;
 echo "<br />";
 echo $Age;
+echo "<br />";
 
-#types
+#functions
+
+echo var_dump($Age);
+
+echo "<br />";
+$data = 'John';
+$lastName = "Smith";
+
+var_dump($data);
+echo "<br />";
+print("test $data");
+var_dump($lastName[strlen($lastName)-1]);
