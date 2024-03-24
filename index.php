@@ -1,55 +1,17 @@
-<?php 
-#comment
-//line comment
-
-echo /*inner comment*/"Hello world<br/>";
-echo "My name is Roman";
-
-?>
-
-<h1><?php echo "surprise"; ?></h1>
-
-<?php
-
-$age = 29;
-$Age = 30;
-
-echo $age;
-echo "<br />";
-echo $Age;
-echo "<br />";
-
-#functions
-
-echo var_dump($Age);
-
-echo "<br />";
-$data = 'John';
-$lastName = "Smith";
-
-var_dump($data);
-echo "<br />";
-print("test $data");
-var_dump($lastName[strlen($lastName)-1]);
-
-echo "<br />";
-$food1 = "Salad";
-$food2 = "Pizza";
-
-$data = ['Salad', 'Burger', 'Pizza'];
-var_dump($data);
-echo "<br />";
-$data[] = 'Tomato';
-var_dump($data);
-
-echo "<br />";
-$data = ['john' => 'Salad', 'jane' => 'Burger', 'sam' => 'Pizza'];
-$data['piter'] = 'Chips';
-var_dump($data);
-
-echo "<br /> <h1>Multidementional array</h1>";
-$data = ['john' => 'Salad', 'jane' => 'Burger', 'sam' => ['Pizza', 'Fries', 'Fish and chips']];
-$data['piter'] = 'Chips';
-var_dump($data);
-echo "<br />";
-var_dump($data['sam'][0]);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Tutorial</title>
+</head>
+<body>
+    <ul class="php_list">
+        <li class="php_item"><a href="./lesson1.php">Lesson 1-17</a></li>
+        <li class="php_item"><a href="./lesson18.php">Lesson 18</a></li>
+        <li class="php_item"><a href="./lesson19.php">Lesson 19</a></li>
+        <li class="php_item"><a href="./lesson1.php"></a></li>
+        <li class="php_item"><a href="./lesson1.php"></a></li>
+    </ul>
+</body>
+</html>
