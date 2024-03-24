@@ -46,3 +46,10 @@ echo "<br />";
 $data = ['john' => 'Salad', 'jane' => 'Burger', 'sam' => 'Pizza'];
 $data['piter'] = 'Chips';
 var_dump($data);
+
+echo "<br /> <h1>Multidementional array</h1>";
+$data = ['john' => 'Salad', 'jane' => 'Burger', 'sam' => ['Pizza', 'Fries', 'Fish and chips']];
+$data['piter'] = 'Chips';
+var_dump($data);
+echo "<br />";
+var_dump($data['sam'][0]);
