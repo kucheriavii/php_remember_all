@@ -3,3 +3,6 @@
 <br />
 <br />
 <?php
+@var_dump(  //@ ignore error
+    (string) [1]
+);
