@@ -6,3 +6,5 @@
 @var_dump(  //@ ignore error
     (string) [1]
 );
+
+//nothing done
