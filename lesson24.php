@@ -3,3 +3,6 @@
 <br />
 <br />
 <?php
+    $data = 5;
+    $data++;
+    var_dump(++$data);
