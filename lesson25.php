@@ -3,3 +3,8 @@
 <br />
 <br />
 <?php
+
+$age = 15;
+$data = $age > 18 && $age<65;
+
+var_dump($data);

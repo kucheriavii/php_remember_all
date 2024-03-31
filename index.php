@@ -15,6 +15,11 @@
         <li class="php_item"><a href="./lesson22.php">Lesson 22</a></li>        
         <li class="php_item"><a href="./lesson23.php">Lesson 23</a></li>        
         <li class="php_item"><a href="./lesson24.php">Lesson 24</a></li>        
+        <li class="php_item"><a href="./lesson25.php">Lesson 25</a></li>        
+        <li class="php_item"><a href="./lesson26.php">Lesson 26</a></li>        
+        <li class="php_item"><a href="./lesson27.php">Lesson 27</a></li>        
+        <li class="php_item"><a href="./lesson28.php">Lesson 28</a></li>        
+        <li class="php_item"><a href="./lesson29.php">Lesson 29</a></li>        
     </ul>
 </body>
 </html>
