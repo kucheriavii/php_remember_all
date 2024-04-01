@@ -25,6 +25,7 @@
     <ul class="php_list">
         <li class="php_item"><a href="./lesson3/lesson1.php">Lesson 1</a></li>        
         <li class="php_item"><a href="./lesson3/lesson2.php">Lesson 2</a></li>        
+        <li class="php_item"><a href="./lesson3/lesson3.php">Lesson 3</a></li>        
     </ul>
 </body>
 </html>
