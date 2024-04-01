@@ -19,7 +19,11 @@
         <li class="php_item"><a href="./lesson26.php">Lesson 26</a></li>        
         <li class="php_item"><a href="./lesson27.php">Lesson 27</a></li>        
         <li class="php_item"><a href="./lesson28.php">Lesson 28</a></li>        
-        <li class="php_item"><a href="./lesson29.php">Lesson 29</a></li>        
+    </ul>
+
+    <h2>Part 2</h2>
+    <ul class="php_list">
+        <li class="php_item"><a href="./lesson2/lesson1.php">Lesson 1</a></li>        
     </ul>
 </body>
 </html>
