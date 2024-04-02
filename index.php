@@ -35,6 +35,7 @@
         <li class="php_item"><a href="./lesson3/lesson10.php">Lesson 10</a></li>        
         <li class="php_item"><a href="./lesson3/lesson11.php">Lesson 11</a></li>        
         <li class="php_item"><a href="./lesson3/lesson12.php">Lesson 12</a></li>        
+        <li class="php_item"><a href="./lesson3/lesson13.php">Lesson 13</a></li>        
     </ul>
 </body>
 </html>
