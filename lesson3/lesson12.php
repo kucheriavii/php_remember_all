@@ -8,8 +8,14 @@ declare(strict_types=1); #Включити сувору типизацію
 <?php
 
     for ($i=1; $i<=15; $i++){
+        if ($i===6){
+            continue;
+        }
         echo $i . "<br />";
-    }
+        if ($i == 10){
+            break;
+        }
+    };
 
 
 
