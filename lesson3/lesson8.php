@@ -22,7 +22,7 @@
     $statusMessage = getStatus(1);
     var_dump($statusMessage);
 
-    #Nothing done
+    #Nothing done second part
 
 
 
