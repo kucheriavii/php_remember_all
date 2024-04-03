@@ -70,4 +70,14 @@
     echo "<br/>";
     echo twoFer();
 
+    function isLeap(int $year=2024):bool{
+        return (($year%4==0 && $year%100!=0) || ($year%400==0)) ? true : false;
+    };
+    $year = 2024;
+    while ($year>0){
+        echo "$year" . (isLeap($year) ? " is leap" : " not a leap");
+        echo "<br>";
+        $year -=4;
+    };
+
 
