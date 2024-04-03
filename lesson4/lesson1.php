@@ -57,10 +57,17 @@
             'grey' => 8,
             'white' => 9
         ];
-
         return $colors[$color];
     };
 
     echo colorCode("white");
     codeColor(2);
+
+
+    function twoFer(string $name="you"): string{
+        return "One for {$name}, one for me.";
+    }
+    echo "<br/>";
+    echo twoFer();
+
 
