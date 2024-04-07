@@ -37,11 +37,11 @@
         <li class="php_item"><a href="./lesson3/lesson12.php">Lesson 12</a></li>        
         <li class="php_item"><a href="./lesson3/lesson13.php">Lesson 13</a></li>        
     </ul>
-
+    
     <h2>Part 3</h2>
     <ul class="php_list">
         <li class="php_item"><a href="./lesson4/lesson1.php">Lesson 1</a></li>        
-       
+        
     </ul>
     <h2>Part 5</h2>
     <ul class="php_list">
@@ -57,6 +57,10 @@
         <li class="php_item"><a href="./lesson5/lesson11.php">Lesson 11</a></li>
         <li class="php_item"><a href="./lesson5/lesson12.php">Lesson 12</a></li>
         <li class="php_item"><a href="./lesson5/lesson13.php">Lesson 13</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson14.php">Lesson 14</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson15.php">Lesson 15</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson16.php">Lesson 16</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson17.php">Lesson 17</a></li>        
     </ul>
     
 </body>
