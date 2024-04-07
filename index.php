@@ -61,6 +61,10 @@
         <li class="php_item"><a href="./lesson5/lesson15.php">Lesson 15</a></li>        
         <li class="php_item"><a href="./lesson5/lesson16.php">Lesson 16</a></li>        
         <li class="php_item"><a href="./lesson5/lesson17.php">Lesson 17</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson18.php">Lesson 18</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson19.php">Lesson 19</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson20.php">Lesson 20</a></li>        
+        <li class="php_item"><a href="./lesson5/lesson21.php">Lesson 21</a></li>        
     </ul>
     
 </body>
