@@ -1,8 +1,7 @@
 <?php 
     declare(strict_types = 1);
 ?>
-<h2>Lesson 7</h2>
-<a href="/php_remember_all">Back home</a>
+<h2>Lesson 9</h2><a href="/php_remember_all">Back home</a>
 <br />
 <br />
 <?php 

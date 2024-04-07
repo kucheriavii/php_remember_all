@@ -45,15 +45,19 @@
     </ul>
     <h2>Part 5</h2>
     <ul class="php_list">
-        <li class="php_item"><a href="./lesson5/lesson1.php">Lesson 1</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson2.php">Lesson 2</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson3.php">Lesson 3</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson5.php">Lesson 5</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson6.php">Lesson 6</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson7.php">Lesson 7</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson8.php">Lesson 8</a></li>        
-        <li class="php_item"><a href="./lesson5/lesson9.php">Lesson 9</a></li>        
-
+        <li class="php_item"><a href="./lesson5/lesson1.php">Lesson 1</a></li>
+        <li class="php_item"><a href="./lesson5/lesson2.php">Lesson 2</a></li>
+        <li class="php_item"><a href="./lesson5/lesson3.php">Lesson 3</a></li>
+        <li class="php_item"><a href="./lesson5/lesson5.php">Lesson 5</a></li>
+        <li class="php_item"><a href="./lesson5/lesson6.php">Lesson 6</a></li>
+        <li class="php_item"><a href="./lesson5/lesson7.php">Lesson 7</a></li>
+        <li class="php_item"><a href="./lesson5/lesson8.php">Lesson 8</a></li>
+        <li class="php_item"><a href="./lesson5/lesson9.php">Lesson 9</a></li>
+        <li class="php_item"><a href="./lesson5/lesson10.php">Lesson 10</a></li>
+        <li class="php_item"><a href="./lesson5/lesson11.php">Lesson 11</a></li>
+        <li class="php_item"><a href="./lesson5/lesson12.php">Lesson 12</a></li>
+        <li class="php_item"><a href="./lesson5/lesson13.php">Lesson 13</a></li>        
     </ul>
+    
 </body>
 </html>
