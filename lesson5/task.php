@@ -24,3 +24,20 @@
     }
 
     print_r(isArmstrongNumber(153));
+
+    function sleces(string $series, int $size): array{
+        $seriesLength = strlen($series);
+        
+        if ($size > $seriesLength || $size<1){
+            return [];
+        } 
+        $results = [];
+
+        for ($i = 0; $i <= $seriesLength - $size; $i++){
+            $results[] = substr($series, $i, $size);
+        }
+        return $results;
+    }
+
+    $a = sleces("1422424", 3);
+    print_r($a);
