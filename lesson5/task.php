@@ -10,4 +10,18 @@
     }
 
     print(getName());
+    echo "<br>";
 
+    function isArmstrongNumber(int $number): bool{
+        $sNum = (string)$number;
+        $pow = strlen($sNum);                
+        
+        $answer = 0;
+        for ($i=0; $i<$pow; $i++){
+            $answer += $sNum[$i]**$pow;
+        }
+        
+        return $number === $answer?True:False;
+    }
+
+    print_r(isArmstrongNumber(91));
