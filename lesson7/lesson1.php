@@ -1,11 +1,9 @@
 <?php 
-    declare(strict_types = 1);
-?>
-<h2>Lesson 1</h2>
-<a href="/php_remember_all">Back home</a>
-<br />
-<br />
-<?php
-echo "OOP";
-echo "OOP";
+ require_once 'Account.php';
 
+ $myAccount = new Account;
+ $johnsAccount = new Account;
+
+ var_dump($myAccount);
+ echo "<br>";
+ var_dump($johnsAccount);
