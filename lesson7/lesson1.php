@@ -6,6 +6,6 @@
 
  $myAccount->balance = 20;
 
+$myAccount -> deposit(100)->deposit(100);
+
  var_dump($myAccount);
- echo "<br>";
- var_dump($johnsAccount);
