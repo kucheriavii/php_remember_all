@@ -1,7 +1,7 @@
 <?php 
     declare(strict_types=1);
 ?>
-<h1>Lesson 24</h1>
+<h1>Lesson 25</h1>
 <?php
 
     function sum(int|float ...$numbers): int|float {
